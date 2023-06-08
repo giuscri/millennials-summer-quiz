@@ -1,3 +1,3 @@
-# Millennial Summer Quiz
+# Millennials Summer Quiz
 
 ![](screenshot.png)
