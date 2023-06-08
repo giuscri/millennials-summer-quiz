@@ -124,7 +124,7 @@
   answer: 4
   difficulty: medium
   category: music
-- question: Chi è il protagonista del videogioco "The Legend of Zelda: Ocarina of Time"?
+- question: "Chi è il protagonista del videogioco \"The Legend of Zelda: Ocarina of Time\"?"
   choices:
     - Zelda
     - Link
