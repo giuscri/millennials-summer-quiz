@@ -1,3 +1,507 @@
+- question: Quale di queste città non si trova in Europa?
+  choices:
+    - Barcellona
+    - Mosca
+    - Toronto
+    - Berlino
+  answer: 2
+  difficulty: easy
+  category: life
+- question: Qual è il titolo del primo album di studio di Eminem?
+  choices:
+    - The Marshall Mathers LP
+    - The Slim Shady LP
+    - Infinite
+    - Encore
+  answer: 2
+  difficulty: hard
+  category: music
+- question: Quale partito politico ha fondato Beppe Grillo?
+  choices:
+    - Partito Democratico
+    - Forza Italia
+    - Movimento 5 Stelle
+    - Lega Nord
+  answer: 2
+  difficulty: easy
+  category: Italian Politics
+- question: Quale era l'età minima per poter utilizzare Facebook al momento del suo lancio nel 2004?
+  choices:
+    - 18
+    - 13
+    - 16
+    - 21
+  answer: 1
+  difficulty: hard
+  category: social media
+- question: Qual è il nome del co-fondatore di Microsoft insieme a Bill Gates?
+  choices:
+    - Steve Jobs
+    - Larry Page
+    - Paul Allen
+    - Steve Wozniak
+  answer: 2
+  difficulty: hard
+  category: technology
+- question: Quale gruppo musicale ha realizzato l'album "Hybrid Theory" nel 2000?
+  choices:
+    - Nirvana
+    - Green Day
+    - Red Hot Chili Peppers
+    - Linkin Park
+  answer: 3
+  difficulty: medium
+  category: music
+- question: Come si chiama la bambina di cui è innamorato Nobita in Doraemon?
+  choices:
+    - Kikuo
+    - Shizuka
+    - Minami
+    - Serika
+  answer: 1
+  difficulty: easy
+  category: cartoons
+- question: Quale album dei Beatles è stato pubblicato per la prima volta con la copertina interamente bianca?
+  choices:
+    - Revolver
+    - Rubber Soul
+    - The White Album
+    - Sgt. Pepper's Lonely Hearts Club Band
+  answer: 2
+  difficulty: hard
+  category: music
+- question: Qual è il nome del boss finale nel videogioco "Shadow of the Colossus"?
+  choices:
+    - Malus
+    - Hydrus
+    - Avion
+    - Gaius
+  answer: 0
+  difficulty: hard
+  category: videogames
+- question: Quando è stato lanciato Skype?
+  choices:
+    - 2000
+    - 2002
+    - 2003
+    - 2005
+  answer: 2
+  difficulty: hard
+  category: technology
+- question: Quale console di videogiochi ha introdotto il controller DualShock?
+  choices:
+    - Nintendo 64
+    - PlayStation
+    - Xbox
+    - Sega Saturn
+  answer: 1
+  difficulty: hard
+  category: videogames
+- question: Qual è il vero nome del cantante conosciuto come "Bono", frontman degli U2?
+  choices:
+    - David Howell Evans
+    - Paul David Hewson
+    - Michael Hutchence
+    - Gordon Matthew Thomas Sumner
+  answer: 1
+  difficulty: hard
+  category: music
+- question: Chi ha scoperto la radioattività?
+  choices:
+    - Marie Curie
+    - Albert Einstein
+    - Isaac Newton
+    - Niels Bohr
+  answer: 0
+  difficulty: hard
+  category: maths and science
+- question: In quale anno è stata fondata Google?
+  choices:
+    - 1995
+    - 1996
+    - 1997
+    - 1998
+  answer: 3
+  difficulty: hard
+  category: technology
+- question: Qual è il nome della stazione spaziale internazionale lanciata nel 1998?
+  choices:
+    - Mir
+    - Skylab
+    - ISS
+    - Tiangong
+  answer: 2
+  difficulty: hard
+  category: science
+- question: Chi ha formulato la Teoria della Relatività Generale?
+  choices:
+    - Albert Einstein
+    - Isaac Newton
+    - Galileo Galilei
+    - Niels Bohr
+  answer: 0
+  difficulty: easy
+  category: maths and science
+- question: Quale di questi non è un tipo di pasta italiana?
+  choices:
+    - Rigatoni
+    - Farfalle
+    - Baguettes
+    - Fettuccine
+  answer: 2
+  difficulty: easy
+  category: life
+- question: Quale società ha inventato il formato di file PDF?
+  choices:
+    - Microsoft
+    - Adobe
+    - Apple
+    - IBM
+  answer: 1
+  difficulty: hard
+  category: technology
+- question: Chi è il creatore del popolare videogioco Minecraft?
+  choices:
+    - Gabe Newell
+    - Markus Persson
+    - Sid Meier
+    - Shigeru Miyamoto
+  answer: 1
+  difficulty: medium
+  category: videogames
+- question: Quale di queste band non ha mai vinto un Grammy per l'Album dell'anno?
+  choices:
+    - Radiohead
+    - U2
+    - Coldplay
+    - Arcade Fire
+  answer: 0
+  difficulty: hard
+  category: music
+- question: In quale anno è stato rilasciato il primo iPod di Apple?
+  choices:
+    - 1999
+    - 2000
+    - 2001
+    - 2002
+  answer: 2
+  difficulty: hard
+  category: technology
+- question: Quale di questi non è un ingrediente tipico della paella spagnola?
+  choices:
+    - Riso
+    - Pollo
+    - Salsiccia
+    - Gamberetti
+  answer: 2
+  difficulty: medium
+  category: life
+- question: Quale di queste piante è generalmente considerata una pianta d'appartamento?
+  choices:
+    - Lavanda
+    - Pino
+    - Orchidea
+    - Girasole
+  answer: 2
+  difficulty: easy
+  category: life
+- question: Quale di questi non è un continente?
+  choices:
+    - Africa
+    - Europa
+    - Atlantico
+    - Asia
+  answer: 2
+  difficulty: easy
+  category: life
+- question: Qual è il nome del fondatore di Amazon?
+  choices:
+    - Bill Gates
+    - Jeff Bezos
+    - Elon Musk
+    - Mark Zuckerberg
+  answer: 1
+  difficulty: easy
+  category: business
+- question: Quale dei seguenti elementi ha il numero atomico più alto?
+  choices:
+    - Ossigeno
+    - Idrogeno
+    - Ferro
+    - Uranio
+  answer: 3
+  difficulty: hard
+  category: maths and science
+- question: Quale politico è stato Primo Ministro italiano per sette volte tra il 1972 e il 1992?
+  choices:
+    - Giulio Andreotti
+    - Aldo Moro
+    - Bettino Craxi
+    - Silvio Berlusconi
+  answer: 0
+  difficulty: hard
+  category: Italian Politics
+- question: In quale film del 2000, diretto da Ridley Scott, Russel Crowe interpreta un generale diventato schiavo?
+  choices:
+    - A Beautiful Mind
+    - Gladiator
+    - Master and Commander
+    - American Gangster
+  answer: 1
+  difficulty: easy
+  category: cinema
+- question: Chi ha diretto il film "The Dark Knight" del 2008?
+  choices:
+    - Martin Scorsese
+    - Steven Spielberg
+    - Christopher Nolan
+    - James Cameron
+  answer: 2
+  difficulty: easy
+  category: cinema
+- question: Quando è stata rilasciata la prima versione di Android?
+  choices:
+    - 2005
+    - 2006
+    - 2007
+    - 2008
+  answer: 3
+  difficulty: medium
+  category: technology
+- question: Chi fu l'ultimo Re d'Italia prima della proclamazione della Repubblica nel 1946?
+  choices:
+    - Umberto II
+    - Vittorio Emanuele III
+    - Umberto I
+    - Vittorio Emanuele II
+  answer: 0
+  difficulty: hard
+  category: Italian Politics
+- question: Chi ha scritto la saga fantasy "A Song of Ice and Fire", sulla quale si basa la serie TV "Game of Thrones"?
+  choices:
+    - J.K. Rowling
+    - George R. R. Martin
+    - J.R.R. Tolkien
+    - Suzanne Collins
+  answer: 1
+  difficulty: hard
+  category: literature
+- question: Chi ha vinto il Campionato mondiale di Formula 1 nel 2000?
+  choices:
+    - Michael Schumacher
+    - Mika Häkkinen
+    - Fernando Alonso
+    - Lewis Hamilton
+  answer: 0
+  difficulty: hard
+  category: sports
+- question: Che cosa descrive la Legge di Hooke?
+  choices:
+    - Il moto dei pianeti
+    - La forza di gravità
+    - L'elasticità dei solidi
+    - Il principio di indeterminazione di Heisenberg
+  answer: 2
+  difficulty: hard
+  category: maths and science
+- question: Quale di queste non è un'opera di William Shakespeare?
+  choices:
+    - Amleto
+    - Romeo e Giulietta
+    - Guerra e pace
+    - Macbeth
+  answer: 2
+  difficulty: medium
+  category: life
+- question: Qual è il nome del personaggio principale del videogioco "Final Fantasy VII"?
+  choices:
+    - Squall Leonhart
+    - Cloud Strife
+    - Tidus
+    - Lightning
+  answer: 1
+  difficulty: hard
+  category: videogames
+- question: In quale videogioco è stato introdotto per la prima volta il personaggio di Yoshi?
+  choices:
+    - Super Mario Bros. 2
+    - Super Mario World
+    - Super Mario 64
+    - Super Mario Bros. 3
+  answer: 1
+  difficulty: hard
+  category: videogames
+- question: Quando è stata rilasciata la console PlayStation 2?
+  choices:
+    - 1998
+    - 1999
+    - 2000
+    - 2001
+  answer: 2
+  difficulty: medium
+  category: videogames
+- question: Qual è il nome dell'attore che interpreta Harry Potter nei film?
+  choices:
+    - Daniel Radcliffe
+    - Rupert Grint
+    - Tom Felton
+    - Matthew Lewis
+  answer: 0
+  difficulty: easy
+  category: cinema
+- question: Qual è l'ultimo libro della serie "Harry Potter"?
+  choices:
+    - Harry Potter e la Camera dei Segreti
+    - Harry Potter e il Prigioniero di Azkaban
+    - Harry Potter e i Doni della Morte
+    - Harry Potter e il Calice di Fuoco
+  answer: 2
+  difficulty: easy
+  category: literature
+- question: Quale dei seguenti non è un numero primo?
+  choices:
+    - 11
+    - 19
+    - 21
+    - 29
+  answer: 2
+  difficulty: hard
+  category: maths and science
+- question: Qual è stato il primo singolo dei Nirvana?
+  choices:
+    - Love Buzz/Big Cheese
+    - Smells Like Teen Spirit
+    - Drain you
+    - Aneurysm
+  answer: 0
+  difficulty: hard
+  category: music
+- question: Quando è stato rilasciato il social network MySpace?
+  choices:
+    - 2002
+    - 2003
+    - 2004
+    - 2005
+  answer: 1
+  difficulty: medium
+  category: social media
+- question: A quale temperatura viene generalmente cotta la pizza nel forno a legna?
+  choices:
+    - 180°C
+    - 250°C
+    - 350°C
+    - 450°C
+  answer: 3
+  difficulty: medium
+  category: life
+- question: Quale di queste non è una razza di cane?
+  choices:
+    - Labrador
+    - Bulldog
+    - Siamese
+    - Beagle
+  answer: 2
+  difficulty: easy
+  category: life
+- question: Quale di questi non è un sistema operativo?
+  choices:
+    - Linux
+    - Windows
+    - Android
+    - Chrome
+  answer: 3
+  difficulty: easy
+  category: computers
+- question: Qual è stato il primo singolo della cantante pop Britney Spears?
+  choices:
+    - Oops!... I Did It Again
+    - Baby One More Time
+    - Toxic
+    - Lucky
+  answer: 1
+  difficulty: easy
+  category: music
+- question: Quale personaggio dei fumetti Marvel è stato interpretato da Tobey Maguire nel 2002?
+  choices:
+    - Iron Man
+    - Hulk
+    - Spider-Man
+    - Daredevil
+  answer: 2
+  difficulty: easy
+  category: cinema
+- question: Quale di queste affermazioni sulle reti 5G è falsa?
+  choices:
+    - Offrono velocità di download superiori rispetto alle reti 4G
+    - Hanno un ritardo di rete inferiore rispetto alle reti 4G
+    - Sono meno sicure delle reti 4G
+    - Supportano un numero maggiore di dispositivi connessi rispetto alle reti 4G
+  answer: 2
+  difficulty: hard
+  category: technology
+- question: Chi è il compositore della colonna sonora della serie di videogiochi "The Elder Scrolls"?
+  choices:
+    - Koji Kondo
+    - Nobuo Uematsu
+    - Hans Zimmer
+    - Jeremy Soule
+  answer: 3
+  difficulty: hard
+  category: videogames
+- question: Quando venne rilasciato il primo iPhone?
+  choices:
+    - 2007
+    - 2006
+    - 2010
+    - 2002
+  answer: 0
+  difficulty: hard
+  category: computers
+- question: Qual è la nazione che ha vinto più Coppe del Mondo di calcio fino al 2021?
+  choices:
+    - Brasile
+    - Germania
+    - Argentina
+    - Italia
+  answer: 0
+  difficulty: medium
+  category: sports
+- question: 'Chi è il protagonista del videogioco "The Legend of Zelda: Ocarina of Time"?'
+  choices:
+    - Zelda
+    - Link
+    - Mario
+    - Ganon
+  answer: 1
+  difficulty: easy
+  category: videogames
+- question: In quale anno ha avuto luogo il "divorzio" tra Stato Italiano e Banca d'Italia?
+  choices:
+    - 1975
+    - 1981
+    - 1985
+    - 1992
+  answer: 0
+  difficulty: hard
+  category: Italian Politics
+- question: Quale nazione ha ospitato i Giochi Olimpici estivi del 2000?
+  choices:
+    - Stati Uniti
+    - Australia
+    - Cina
+    - Regno Unito
+  answer: 1
+  difficulty: medium
+  category: sports
+- question: In quale anno è stato inaugurato l'Euro come moneta fisica?
+  choices:
+    - 1999
+    - 2000
+    - 2001
+    - 2002
+  answer: 3
+  difficulty: medium
+  category: history
 - question: Per quale console di videogiochi non uscì il titolo "Mafia"?
   choices:
     - Xbox
@@ -7,572 +511,113 @@
   answer: 2
   difficulty: medium
   category: videogames
-- question: Quando venne rilasciato il primo iPhone?
-  choices:
-    - 2007
-    - 2006
-    - 2010
-    - 2002
-  answer: 1
-  difficulty: hard
-  category: computers
-- question: A quanto ammonta l'IVA sulla prima casa?
-  choices:
-    - 3%
-    - 1%
-    - 0%
-    - 4%
-  answer: 3
-  difficulty: medium
-  category: life
-- question: Qual è stato il primo singolo dei Nirvana?
-  choices:
-    - Love Buzz/Big Cheese
-    - Smells Like Teen Spirit
-    - Drain you
-    - Aneurysm
-  answer: 1
-  difficulty: hard
-  category: music
-- question: Come si chiama la bambina di cui è innamorato Nobita in Doraemon?
-  choices:
-    - Kikuo
-    - Shizuka
-    - Minami
-    - Serika
-  answer: 2
-  difficulty: easy
-  category: cartoons
-- question: Qual è l'ultimo libro della serie "Harry Potter"?
-  choices:
-    - Harry Potter e la Camera dei Segreti
-    - Harry Potter e il Prigioniero di Azkaban
-    - Harry Potter e i Doni della Morte
-    - Harry Potter e il Calice di Fuoco
-  answer: 3
-  difficulty: easy
-  category: literature
-- question: Quale era l'età minima per poter utilizzare Facebook al momento del suo lancio nel 2004?
-  choices:
-    - 18
-    - 13
-    - 16
-    - 21
-  answer: 2
-  difficulty: hard
-  category: social media
-- question: Chi è stato il presidente degli Stati Uniti d'America per la maggior parte degli anni 2000?
-  choices:
-    - Bill Clinton
-    - George W. Bush
-    - Barack Obama
-    - Donald Trump
-  answer: 2
-  difficulty: medium
-  category: history
-- question: In quale anno è stato rilasciato il sistema operativo Windows XP?
-  choices:
-    - 2000
-    - 2001
-    - 2002
-    - 2003
-  answer: 2
-  difficulty: hard
-  category: computers
-- question: Qual è la nazione che ha vinto più Coppe del Mondo di calcio fino al 2021?
-  choices:
-    - Brasile
-    - Germania
-    - Argentina
-    - Italia
-  answer: 1
-  difficulty: medium
-  category: sports
-- question: Quale personaggio dei fumetti Marvel è stato interpretato da Tobey Maguire nel 2002?
-  choices:
-    - Iron Man
-    - Hulk
-    - Spider-Man
-    - Daredevil
-  answer: 3
-  difficulty: easy
-  category: cinema
-- question: Chi è il creatore del popolare videogioco Minecraft?
-  choices:
-    - Gabe Newell
-    - Markus Persson
-    - Sid Meier
-    - Shigeru Miyamoto
-  answer: 2
-  difficulty: medium
-  category: videogames
-- question: Qual è il nome della stazione spaziale internazionale lanciata nel 1998?
-  choices:
-    - Mir
-    - Skylab
-    - ISS
-    - Tiangong
-  answer: 3
-  difficulty: hard
-  category: science
-- question: Quale gruppo musicale ha realizzato l'album "Hybrid Theory" nel 2000?
-  choices:
-    - Nirvana
-    - Green Day
-    - Red Hot Chili Peppers
-    - Linkin Park
-  answer: 4
-  difficulty: medium
-  category: music
-- question: "Chi è il protagonista del videogioco \"The Legend of Zelda: Ocarina of Time\"?"
-  choices:
-    - Zelda
-    - Link
-    - Mario
-    - Ganon
-  answer: 2
-  difficulty: easy
-  category: videogames
-- question: Quando è stata rilasciata la prima versione di Android?
-  choices:
-    - 2005
-    - 2006
-    - 2007
-    - 2008
-  answer: 4
-  difficulty: medium
-  category: technology
-- question: Quale nazione ha ospitato i Giochi Olimpici estivi del 2000?
-  choices:
-    - Stati Uniti
-    - Australia
-    - Cina
-    - Regno Unito
-  answer: 2
-  difficulty: medium
-  category: sports
-- question: Qual è stato il primo singolo della cantante pop Britney Spears?
-  choices:
-    - Oops!... I Did It Again
-    - Baby One More Time
-    - Toxic
-    - Lucky
-  answer: 2
-  difficulty: easy
-  category: music
-- question: Quale di queste non è una delle casate principali in "Il Trono di Spade"?
-  choices:
-    - Stark
-    - Lannister
-    - Baggins
-    - Targaryen
-  answer: 3
-  difficulty: easy
-  category: literature
-- question: Quando è stato rilasciato il social network MySpace?
-  choices:
-    - 2002
-    - 2003
-    - 2004
-    - 2005
-  answer: 2
-  difficulty: medium
-  category: social media
-- question: Qual è il nome dell'attore che interpreta Harry Potter nei film?
-  choices:
-    - Daniel Radcliffe
-    - Rupert Grint
-    - Tom Felton
-    - Matthew Lewis
-  answer: 1
-  difficulty: easy
-  category: cinema
-- question: Chi è stato il Primo Ministro italiano per la maggior parte degli anni 2000?
-  choices:
-    - Romano Prodi
-    - Silvio Berlusconi
-    - Matteo Renzi
-    - Giuliano Amato
-  answer: 2
-  difficulty: medium
-  category: history
-- question: Quando è stato lanciato Skype?
-  choices:
-    - 2000
-    - 2002
-    - 2003
-    - 2005
-  answer: 3
-  difficulty: hard
-  category: technology
-- question: Chi ha vinto il Campionato mondiale di Formula 1 nel 2000?
-  choices:
-    - Michael Schumacher
-    - Mika Häkkinen
-    - Fernando Alonso
-    - Lewis Hamilton
-  answer: 1
-  difficulty: hard
-  category: sports
-- question: A quale temperatura viene generalmente cotta la pizza nel forno a legna?
-  choices:
-    - 180°C
-    - 250°C
-    - 350°C
-    - 450°C
-  answer: 4
-  difficulty: medium
-  category: life
-- question: Quale di queste piante è generalmente considerata una pianta d'appartamento?
-  choices:
-    - Lavanda
-    - Pino
-    - Orchidea
-    - Girasole
-  answer: 3
-  difficulty: easy
-  category: life
-- question: Quale di queste città non si trova in Europa?
-  choices:
-    - Barcellona
-    - Mosca
-    - Toronto
-    - Berlino
-  answer: 3
-  difficulty: easy
-  category: life
-- question: Quale di questi non è un tipo di pasta italiana?
-  choices:
-    - Rigatoni
-    - Farfalle
-    - Baguettes
-    - Fettuccine
-  answer: 3
-  difficulty: easy
-  category: life
-- question: Quale di queste non è un'opera di William Shakespeare?
-  choices:
-    - Amleto
-    - Romeo e Giulietta
-    - Guerra e pace
-    - Macbeth
-  answer: 3
-  difficulty: medium
-  category: life
-- question: Quale di questi non è un ingrediente tipico della paella spagnola?
-  choices:
-    - Riso
-    - Pollo
-    - Salsiccia
-    - Gamberetti
-  answer: 3
-  difficulty: medium
-  category: life
-- question: Qual è l'età minima per ottenere la patente di guida in Italia?
-  choices:
-    - 16
-    - 18
-    - 20
-    - 21
-  answer: 2
-  difficulty: easy
-  category: life
-- question: In quale città si trova la Torre Eiffel?
-  choices:
-    - Londra
-    - Roma
-    - Parigi
-    - Berlino
-  answer: 3
-  difficulty: easy
-  category: life
-- question: Quale di questi non è un continente?
-  choices:
-    - Africa
-    - Europa
-    - Atlantico
-    - Asia
-  answer: 3
-  difficulty: easy
-  category: life
-- question: Quale di queste non è una razza di cane?
-  choices:
-    - Labrador
-    - Bulldog
-    - Siamese
-    - Beagle
-  answer: 3
-  difficulty: easy
-  category: life
-- question: Qual è il nome del personaggio principale del videogioco "Final Fantasy VII"?
-  choices:
-    - Squall Leonhart
-    - Cloud Strife
-    - Tidus
-    - Lightning
-  answer: 2
-  difficulty: hard
-  category: videogames
-- question: Quale console di videogiochi ha introdotto il controller DualShock?
-  choices:
-    - Nintendo 64
-    - PlayStation
-    - Xbox
-    - Sega Saturn
-  answer: 2
-  difficulty: hard
-  category: videogames
-- question: Quale album dei Beatles è stato pubblicato per la prima volta con la copertina interamente bianca?
-  choices:
-    - Revolver
-    - Rubber Soul
-    - The White Album
-    - Sgt. Pepper's Lonely Hearts Club Band
-  answer: 3
-  difficulty: hard
-  category: music
-- question: Qual è il vero nome del cantante conosciuto come "Bono", frontman degli U2?
-  choices:
-    - David Howell Evans
-    - Paul David Hewson
-    - Michael Hutchence
-    - Gordon Matthew Thomas Sumner
-  answer: 2
-  difficulty: hard
-  category: music
-- question: Quale di queste band non ha mai vinto un Grammy per l'Album dell'anno?
-  choices:
-    - Radiohead
-    - U2
-    - Coldplay
-    - Arcade Fire
-  answer: 1
-  difficulty: hard
-  category: music
-- question: In quale videogioco è stato introdotto per la prima volta il personaggio di Yoshi?
-  choices:
-    - Super Mario Bros. 2
-    - Super Mario World
-    - Super Mario 64
-    - Super Mario Bros. 3
-  answer: 2
-  difficulty: hard
-  category: videogames
-- question: Qual è il nome del boss finale nel videogioco "Shadow of the Colossus"?
-  choices:
-    - Malus
-    - Hydrus
-    - Avion
-    - Gaius
-  answer: 1
-  difficulty: hard
-  category: videogames
-- question: Chi è il compositore della colonna sonora della serie di videogiochi "The Elder Scrolls"?
-  choices:
-    - Koji Kondo
-    - Nobuo Uematsu
-    - Hans Zimmer
-    - Jeremy Soule
-  answer: 4
-  difficulty: hard
-  category: videogames
-- question: Quale band ha realizzato l'album "Kid A" nel 2000?
-  choices:
-    - Coldplay
-    - Radiohead
-    - U2
-    - Oasis
-  answer: 2
-  difficulty: hard
-  category: music
-- question: Qual è il titolo del primo album di studio di Eminem?
-  choices:
-    - The Marshall Mathers LP
-    - The Slim Shady LP
-    - Infinite
-    - Encore
-  answer: 3
-  difficulty: hard
-  category: music
-- question: In quale anno è stato rilasciato il primo iPod di Apple?
-  choices:
-    - 1999
-    - 2000
-    - 2001
-    - 2002
-  answer: 3
-  difficulty: hard
-  category: technology
-- question: Qual è il nome del sistema di intelligenza artificiale sviluppato da IBM che ha vinto Jeopardy nel 2011?
-  choices:
-    - DeepMind
-    - Watson
-    - AlphaGo
-    - GPT-3
-  answer: 2
-  difficulty: hard
-  category: technology
-- question: In quale anno è stata fondata Google?
-  choices:
-    - 1995
-    - 1996
-    - 1997
-    - 1998
-  answer: 4
-  difficulty: hard
-  category: technology
-- question: Quale di queste affermazioni sulle reti 5G è falsa?
-  choices:
-    - Offrono velocità di download superiori rispetto alle reti 4G
-    - Hanno un ritardo di rete inferiore rispetto alle reti 4G
-    - Sono meno sicure delle reti 4G
-    - Supportano un numero maggiore di dispositivi connessi rispetto alle reti 4G
-  answer: 3
-  difficulty: hard
-  category: technology
-- question: Qual è il nome del co-fondatore di Microsoft insieme a Bill Gates?
-  choices:
-    - Steve Jobs
-    - Larry Page
-    - Paul Allen
-    - Steve Wozniak
-  answer: 3
-  difficulty: hard
-  category: technology
-- question: Quale società ha inventato il formato di file PDF?
-  choices:
-    - Microsoft
-    - Adobe
-    - Apple
-    - IBM
-  answer: 2
-  difficulty: hard
-  category: technology
 - question: Quale band ha realizzato l'album "Californication" nel 1999?
   choices:
     - Nirvana
     - Red Hot Chili Peppers
     - Green Day
     - Coldplay
-  answer: 2
+  answer: 1
   difficulty: medium
   category: music
-- question: Quando è stata rilasciata la console PlayStation 2?
-  choices:
-    - 1998
-    - 1999
-    - 2000
-    - 2001
-  answer: 3
-  difficulty: medium
-  category: videogames
-- question: Chi ha diretto il film "The Dark Knight" del 2008?
-  choices:
-    - Martin Scorsese
-    - Steven Spielberg
-    - Christopher Nolan
-    - James Cameron
-  answer: 3
-  difficulty: easy 
-  category: cinema
-- question: Quale di questi non è un sistema operativo?
-  choices:
-    - Linux
-    - Windows
-    - Android
-    - Chrome
-  answer: 4
-  difficulty: easy 
-  category: computers
-- question: Chi ha scritto la saga fantasy "A Song of Ice and Fire", sulla quale si basa la serie TV "Game of Thrones"?
-  choices:
-    - J.K. Rowling
-    - George R. R. Martin
-    - J.R.R. Tolkien
-    - Suzanne Collins
-  answer: 2
-  difficulty: hard 
-  category: literature
-- question: Quale di questi è un social network rilasciato nel 2004?
-  choices:
-    - Friendster
-    - MySpace
-    - Facebook
-    - Instagram
-  answer: 3
-  difficulty: hard
-  category: social media
-- question: In quale anno è stato inaugurato l'Euro come moneta fisica?
-  choices:
-    - 1999
-    - 2000
-    - 2001
-    - 2002
-  answer: 4
-  difficulty: medium
-  category: history
-- question: In quale film del 2000, diretto da Ridley Scott, Russel Crowe interpreta un generale diventato schiavo?
-  choices:
-    - A Beautiful Mind
-    - Gladiator
-    - Master and Commander
-    - American Gangster
-  answer: 2
-  difficulty: easy 
-  category: cinema
 - question: Quale di questi album di Eminem ha vinto l'Academy Award per la migliore canzone originale?
   choices:
     - The Slim Shady LP
     - The Marshall Mathers LP
     - The Eminem Show
     - 8 Mile
-  answer: 4
+  answer: 3
   difficulty: hard
   category: music
-- question: Qual è il nome del fondatore di Amazon?
+- question: Quando è stato il primo atterraggio su Marte?
   choices:
-    - Bill Gates
-    - Jeff Bezos
-    - Elon Musk
-    - Mark Zuckerberg
-  answer: 2
-  difficulty: easy 
-  category: business
-- question: Chi è stato il Primo Ministro italiano più giovane nella storia della Repubblica Italiana?
+    - 1989
+    - 1976
+    - 1995
+    - 1965
+  answer: 1
+  difficulty: hard
+  category: maths and science
+- question: Quale band ha realizzato l'album "Kid A" nel 2000?
   choices:
-    - Benito Mussolini
-    - Romano Prodi
-    - Silvio Berlusconi
-    - Matteo Renzi
-  answer: 4
+    - Coldplay
+    - Radiohead
+    - U2
+    - Oasis
+  answer: 1
+  difficulty: hard
+  category: music
+- question: Qual è il nome del sistema di intelligenza artificiale sviluppato da IBM che ha vinto Jeopardy nel 2011?
+  choices:
+    - DeepMind
+    - Watson
+    - AlphaGo
+    - GPT-3
+  answer: 1
+  difficulty: hard
+  category: technology
+- question: Chi è stato il presidente degli Stati Uniti d'America per la maggior parte degli anni 2000?
+  choices:
+    - Bill Clinton
+    - George W. Bush
+    - Barack Obama
+    - Donald Trump
+  answer: 1
   difficulty: medium
-  category: Italian Politics
-- question: Quale partito politico ha fondato Beppe Grillo?
+  category: history
+- question: In quale città si trova la Torre Eiffel?
   choices:
-    - Partito Democratico
-    - Forza Italia
-    - Movimento 5 Stelle
-    - Lega Nord
-  answer: 3
-  difficulty: easy 
-  category: Italian Politics
+    - Londra
+    - Roma
+    - Parigi
+    - Berlino
+  answer: 2
+  difficulty: easy
+  category: life
 - question: Quale politico italiano è noto per il suo soprannome "Il Cavaliere"?
   choices:
     - Silvio Berlusconi
     - Romano Prodi
     - Giuseppe Conte
     - Matteo Salvini
-  answer: 1
-  difficulty: easy 
+  answer: 0
+  difficulty: easy
   category: Italian Politics
-- question: Chi fu l'ultimo Re d'Italia prima della proclamazione della Repubblica nel 1946?
+- question: A quanto ammonta l'IVA sulla prima casa?
   choices:
-    - Umberto II
-    - Vittorio Emanuele III
-    - Umberto I
-    - Vittorio Emanuele II
+    - 3%
+    - 1%
+    - 0%
+    - 4%
+  answer: 2
+  difficulty: medium
+  category: life
+- question: Quale di queste non è una delle casate principali in "Il Trono di Spade"?
+  choices:
+    - Stark
+    - Lannister
+    - Baggins
+    - Targaryen
+  answer: 2
+  difficulty: easy
+  category: literature
+- question: Qual è l'età minima per ottenere la patente di guida in Italia?
+  choices:
+    - 16
+    - 18
+    - 20
+    - 21
   answer: 1
-  difficulty: hard
+  difficulty: easy
+  category: life
+- question: Chi è stato il Primo Ministro italiano più giovane nella storia della Repubblica Italiana?
+  choices:
+    - Benito Mussolini
+    - Romano Prodi
+    - Silvio Berlusconi
+    - Matteo Renzi
+  answer: 3
+  difficulty: medium
   category: Italian Politics
 - question: Chi era il Primo Ministro italiano durante gli "anni di piombo"?
   choices:
@@ -580,42 +625,6 @@
     - Aldo Moro
     - Francesco Cossiga
     - Bettino Craxi
-  answer: 2
-  difficulty: hard
-  category: Italian Politics
-- question: Chi è stato il primo Presidente della Repubblica Italiana?
-  choices:
-    - Luigi Einaudi
-    - Enrico De Nicola
-    - Giovanni Gronchi
-    - Giuseppe Saragat
-  answer: 2
-  difficulty: hard
-  category: Italian Politics
-- question: In quale anno ha avuto luogo il "divorzio" tra Stato Italiano e Banca d'Italia?
-  choices:
-    - 1975
-    - 1981
-    - 1985
-    - 1992
-  answer: 1
-  difficulty: hard
-  category: Italian Politics
-- question: Chi è stato il primo Primo Ministro della Repubblica Italiana?
-  choices:
-    - Alcide De Gasperi
-    - Enrico De Nicola
-    - Luigi Einaudi
-    - Giovanni Leone
-  answer: 1
-  difficulty: hard
-  category: Italian Politics
-- question: Quale politico è stato Primo Ministro italiano per sette volte tra il 1972 e il 1992?
-  choices:
-    - Giulio Andreotti
-    - Aldo Moro
-    - Bettino Craxi
-    - Silvio Berlusconi
   answer: 1
   difficulty: hard
   category: Italian Politics
@@ -625,25 +634,7 @@
     - 1
     - 3
     - 4
-  answer: 2
-  difficulty: hard
-  category: "maths and science"
-- question: Quando è stato il primo atterraggio su Marte?
-  choices:
-    - 1989
-    - 1976
-    - 1995
-    - 1965
-  answer: 2
-  difficulty: hard
-  category: maths and science
-- question: Che cosa descrive la Legge di Hooke?
-  choices:
-    - Il moto dei pianeti
-    - La forza di gravità
-    - L'elasticità dei solidi
-    - Il principio di indeterminazione di Heisenberg
-  answer: 3
+  answer: 1
   difficulty: hard
   category: maths and science
 - question: Qual è la velocità della luce nel vuoto?
@@ -652,42 +643,51 @@
     - Circa 5 x 10^8 m/s
     - Circa 1 x 10^8 m/s
     - Circa 2 x 10^8 m/s
-  answer: 1
+  answer: 0
   difficulty: medium
   category: maths and science
-- question: Chi ha scoperto la radioattività?
+- question: Chi è stato il Primo Ministro italiano per la maggior parte degli anni 2000?
   choices:
-    - Marie Curie
-    - Albert Einstein
-    - Isaac Newton
-    - Niels Bohr
+    - Romano Prodi
+    - Silvio Berlusconi
+    - Matteo Renzi
+    - Giuliano Amato
+  answer: 1
+  difficulty: medium
+  category: history
+- question: In quale anno è stato rilasciato il sistema operativo Windows XP?
+  choices:
+    - 2000
+    - 2001
+    - 2002
+    - 2003
   answer: 1
   difficulty: hard
-  category: maths and science
-- question: Chi ha formulato la Teoria della Relatività Generale?
+  category: computers
+- question: Quale di questi è un social network rilasciato nel 2004?
   choices:
-    - Albert Einstein
-    - Isaac Newton
-    - Galileo Galilei
-    - Niels Bohr
+    - Friendster
+    - MySpace
+    - Facebook
+    - Instagram
+  answer: 2
+  difficulty: hard
+  category: social media
+- question: Chi è stato il primo Primo Ministro della Repubblica Italiana?
+  choices:
+    - Alcide De Gasperi
+    - Enrico De Nicola
+    - Luigi Einaudi
+    - Giovanni Leone
+  answer: 0
+  difficulty: hard
+  category: Italian Politics
+- question: Chi è stato il primo Presidente della Repubblica Italiana?
+  choices:
+    - Luigi Einaudi
+    - Enrico De Nicola
+    - Giovanni Gronchi
+    - Giuseppe Saragat
   answer: 1
-  difficulty: easy
-  category: maths and science
-- question: Quale dei seguenti non è un numero primo?
-  choices:
-    - 11
-    - 19
-    - 21
-    - 29
-  answer: 3
   difficulty: hard
-  category: maths and science
-- question: Quale dei seguenti elementi ha il numero atomico più alto?
-  choices:
-    - Ossigeno
-    - Idrogeno
-    - Ferro
-    - Uranio
-  answer: 4
-  difficulty: hard
-  category: maths and science
+  category: Italian Politics
