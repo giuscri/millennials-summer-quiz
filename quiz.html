@@ -15,6 +15,9 @@
 </head>
 <body class="flex items-center justify-center min-h-screen bg-gray-200 mx-16 py-4">
     <div id="main" class="p-8 bg-white rounded-lg shadow-md opacity-0 transition-opacity duration-300">
+        <div class="flex justify-center mb-4">
+            <button id="fifty-fifty-button" class="px-4 py-2 text-gray-700 bg-gray-200 border-4 border-transparent rounded-md hover:bg-gray-300 transition-colors duration-500">50:50</button>
+        </div>
         <h1 id="question-text" class="mb-4 text-2xl font-bold text-center text-gray-700">Question</h1>
         <div class="flex flex-col gap-4 md:grid md:grid-cols-2">
             <button class="px-4 py-2 text-gray-700 bg-gray-200 border-4 border-transparent rounded-md hover:bg-gray-300 transition-colors duration-500 option">Option 1</button>
@@ -71,6 +74,50 @@
                     location.reload();
                 }, 300);
             }
+        });
+
+        const isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
+        if (isMobile) {
+            // On mobile enable to change questions tapping left/right
+            document.documentElement.addEventListener('click', function(event) {
+                const pageWidth = window.innerWidth;
+                const clickX = event.clientX;
+
+                if (clickX > 2 * pageWidth / 3) {
+                    document.querySelector('#main').classList.remove('opacity-100');
+
+                    setTimeout(() => {
+                        localStorage.setItem('questionIndex', questionIndex + 1);
+                        location.reload();
+                    }, 300);
+                } else if (clickX < pageWidth / 3) {
+                    document.querySelector('#main').classList.remove('opacity-100');
+
+                    setTimeout(() => {
+                        localStorage.setItem('questionIndex', questionIndex - 1);
+                        location.reload();
+                    }, 300);
+                }
+            });
+        }
+
+        const fiftyFiftyButton = document.getElementById('fifty-fifty-button');
+        fiftyFiftyButton.addEventListener('click', function() {
+            let wrongOptions = [];
+            options.forEach((option, index) => {
+                if (index !== question.answer) {
+                    wrongOptions.push(option);
+                }
+            });
+
+            // Get the first two wrong options
+            wrongOptions.slice(0, 2).forEach(option => {
+                option.disabled = true;
+                option.classList.add('bg-red-300');
+            });
+
+            // Disable the 50:50 button after it is used
+            fiftyFiftyButton.disabled = true;
         });
     </script>
 </body>
