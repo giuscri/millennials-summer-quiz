@@ -83,14 +83,14 @@
                 const pageWidth = window.innerWidth;
                 const clickX = event.clientX;
 
-                if (clickX > 3 * pageWidth / 4) {
+                if (clickX > 9 * pageWidth / 10) {
                     document.querySelector('#main').classList.remove('opacity-100');
 
                     setTimeout(() => {
                         localStorage.setItem('questionIndex', questionIndex + 1);
                         location.reload();
                     }, 300);
-                } else if (clickX < pageWidth / 4) {
+                } else if (clickX < pageWidth / 10) {
                     document.querySelector('#main').classList.remove('opacity-100');
 
                     setTimeout(() => {
