@@ -1,0 +1,54 @@
+- question: Come si chiama la bambina di cui è innamorato Nobita in Doraemon?
+  choices:
+    - Kikuo
+    - Shizuka
+    - Minami
+    - Serika
+  answer: 1
+  difficulty: easy
+  category: cartoons
+- question: Quale console di videogiochi ha introdotto il controller DualShock?
+  choices:
+    - Nintendo 64
+    - PlayStation
+    - Xbox
+    - Sega Saturn
+  answer: 1
+  difficulty: medium
+  category: videogames
+- question: In quale anno è stato rilasciato il primo iPod di Apple?
+  choices:
+    - 1999
+    - 2000
+    - 2001
+    - 2002
+  answer: 2
+  difficulty: hard
+  category: technology
+- question: In quale film del 2000, diretto da Ridley Scott, Russel Crowe interpreta un generale diventato schiavo?
+  choices:
+    - A Beautiful Mind
+    - Gladiator
+    - Master and Commander
+    - American Gangster
+  answer: 1
+  difficulty: easy
+  category: cinema
+- question: A quanto ammonta l'IVA sulla prima casa?
+  choices:
+    - 3%
+    - 1%
+    - 0%
+    - 4%
+  answer: 4
+  difficulty: medium
+  category: life
+- question: Qual è la terza cifra decimale di π?
+  choices:
+    - 2
+    - 1
+    - 3
+    - 4
+  answer: 1
+  difficulty: hard
+  category: maths and science
