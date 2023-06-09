@@ -44,6 +44,7 @@
             option.addEventListener('click', function() {
                 options.forEach((opt, optIndex) => {
                     opt.classList.remove('bg-gray-200', 'hover:bg-gray-300', 'border-gray-500');
+                    opt.disabled = true;
                     if (optIndex === question.answer) {
                         opt.classList.add('text-white', 'bg-green-300');
                     } else {
