@@ -286,3 +286,426 @@
   answer: 0
   difficulty: medium
   category: cartoons
+- question: Chi è l'autore del romanzo distopico '1984'?
+  choices:
+    - George Orwell
+    - Aldous Huxley
+    - Ray Bradbury
+    - H.G. Wells
+  answer: 0
+  difficulty: medium
+  category: literature
+- question: In quale serie TV si può trovare il personaggio di Walter White?
+  choices:
+    - The Sopranos
+    - Breaking Bad
+    - The Wire
+    - Game of Thrones
+  answer: 1
+  difficulty: medium
+  category: television
+- question: Qual è la formula chimica dell'acqua ossigenata?
+  choices:
+    - H2O2
+    - H2O
+    - H3O
+    - HO2
+  answer: 0
+  difficulty: hard
+  category: chemistry
+- question: Quale imperatore romano ha completato la costruzione del Colosseo?
+  choices:
+    - Augusto
+    - Nerone
+    - Vespasiano
+    - Tito
+  answer: 3
+  difficulty: hard
+  category: history
+- question: Quale famoso pittore ha realizzato il quadro 'Il grido'?
+  choices:
+    - Vincent Van Gogh
+    - Pablo Picasso
+    - Edvard Munch
+    - Claude Monet
+  answer: 2
+  difficulty: hard
+  category: arts
+- question: In quale anno è stata fondata Google?
+  choices:
+    - 1996
+    - 1997
+    - 1998
+    - 1999
+  answer: 2
+  difficulty: medium
+  category: technology
+- question: Quale pianeta nel nostro sistema solare ha il giorno più lungo?
+  choices:
+    - Venere
+    - Giove
+    - Mercurio
+    - Marte
+  answer: 0
+  difficulty: hard
+  category: astronomy
+- question: Chi è l'autore di 'Il vecchio e il mare'?
+  choices:
+    - Ernest Hemingway
+    - Mark Twain
+    - John Steinbeck
+    - F. Scott Fitzgerald
+  answer: 0
+  difficulty: medium
+  category: literature
+- question: Qual è il nome completo di Tony Stark nel franchise 'Iron Man'?
+  choices:
+    - Anthony Edward Stark
+    - Anthony Evan Stark
+    - Anthony Elton Stark
+    - Anthony Ethan Stark
+  answer: 0
+  difficulty: medium
+  category: comics
+- question: Quale gruppo musicale ha registrato l'album 'Dark Side of the Moon'?
+  choices:
+    - The Beatles
+    - Led Zeppelin
+    - Pink Floyd
+    - The Rolling Stones
+  answer: 2
+  difficulty: medium
+  category: music
+- question: Quale personaggio dei fumetti ha come vero nome Bruce Wayne?
+  choices:
+    - Superman
+    - Spider-Man
+    - Batman
+    - Iron Man
+  answer: 2
+  difficulty: medium
+  category: comics
+- question: Quale pianeta natale di Superman viene distrutto, costringendo i suoi genitori a inviarlo sulla Terra?
+  choices:
+    - Krypton
+    - Asgard
+    - Thanagar
+    - Xandar
+  answer: 0
+  difficulty: hard
+  category: comics
+- question: In quale anno è stato introdotto il personaggio di Topolino (Mickey Mouse)?
+  choices:
+    - 1928
+    - 1930
+    - 1932
+    - 1935
+  answer: 0
+  difficulty: hard
+  category: cartoons
+- question: Quale è il nome del migliore amico di Fred Flintstone nella serie 'I Flinstones'?
+  choices:
+    - Barney Rubble
+    - Dino
+    - George Jetson
+    - Bamm-Bamm
+  answer: 0
+  difficulty: medium
+  category: cartoons
+- question: Quale strumento musicale suona Squiddi in 'SpongeBob'?
+  choices:
+    - Flauto
+    - Clarinetto
+    - Tromba
+    - Pianoforte
+  answer: 1
+  difficulty: medium
+  category: cartoons
+- question: In 'I Simpson', qual è il nome del bar frequentato da Homer?
+  choices:
+    - Moe's Tavern
+    - The Drunken Clam
+    - The Rusty Barnacle
+    - The Gilded Truffle
+  answer: 0
+  difficulty: hard
+  category: cartoons
+- question: Come si chiama la fidanzata di Paperino?
+  choices:
+    - Paperina
+    - Minni
+    - Clarabella
+    - Daisy
+  answer: 3
+  difficulty: easy
+  category: cartoons
+- question: Quale genere musicale è principalmente associato a Bob Marley?
+  choices:
+    - Reggae
+    - Rock
+    - Jazz
+    - Blues
+  answer: 0
+  difficulty: medium
+  category: music
+- question: Quale è l'unità di misura della forza nel Sistema Internazionale?
+  choices:
+    - Joule
+    - Watt
+    - Newton
+    - Pascal
+  answer: 2
+  difficulty: hard
+  category: physics
+- question: Quale grande impero era governato da Attila, noto come il flagello di Dio?
+  choices:
+    - I Romani
+    - I Mongoli
+    - I Persiani
+    - Gli Unni
+  answer: 3
+  difficulty: hard
+  category: history
+- question: Come si chiama la collina su cui è situato il Partenone ad Atene?
+  choices:
+    - Palatino
+    - Capitoline
+    - Acropoli
+    - Colosseo
+  answer: 2
+  difficulty: medium
+  category: geography
+- question: Chi ha scritto il romanzo 'Moby Dick'?
+  choices:
+    - Herman Melville
+    - Mark Twain
+    - Robert Louis Stevenson
+    - Edgar Allan Poe
+  answer: 0
+  difficulty: hard
+  category: literature
+- question: In quale città è situato il famoso museo del Louvre?
+  choices:
+    - Roma
+    - Londra
+    - Parigi
+    - Madrid
+  answer: 2
+  difficulty: easy
+  category: arts
+- question: Come si chiama la protagonista femminile del cartone animato 'I Flintstones'?
+  choices:
+    - Wilma
+    - Betty
+    - Daphne
+    - Velma
+  answer: 0
+  difficulty: easy
+  category: cartoons
+- question: Quale fiume scorre attraverso Londra?
+  choices:
+    - Tamigi
+    - Senna
+    - Elba
+    - Reno
+  answer: 0
+  difficulty: easy
+  category: geography
+- question: Quale sport è conosciuto come 'il gioco degli scacchi sulla ghiaccio'?
+  choices:
+    - Curling
+    - Hockey su ghiaccio
+    - Pattinaggio artistico
+    - Bobsleigh
+  answer: 0
+  difficulty: hard
+  category: sports
+- question: Chi ha scritto la 'Divina Commedia'?
+  choices:
+    - Dante Alighieri
+    - Francesco Petrarca
+    - Giovanni Boccaccio
+    - William Shakespeare
+  answer: 0
+  difficulty: easy
+  category: literature
+- question: Quale strumento ha inventato Galileo Galilei?
+  choices:
+    - Il telescopio
+    - Il microscopio
+    - Il termometro
+    - La bussola
+  answer: 0
+  difficulty: medium
+  category: history
+- question: Chi è il regista di 'E.T. l'extraterrestre'?
+  choices:
+    - Steven Spielberg
+    - George Lucas
+    - James Cameron
+    - Ridley Scott
+  answer: 0
+  difficulty: easy
+  category: movies
+- question: Quale è il colore tradizionale del taxi a New York?
+  choices:
+    - Rosso
+    - Nero
+    - Giallo
+    - Blu
+  answer: 2
+  difficulty: easy
+  category: general knowledge
+- question: Chi ha detto "Penso, quindi sono"?
+  choices:
+    - Immanuel Kant
+    - Friedrich Nietzsche
+    - Socrate
+    - René Descartes
+  answer: 3
+  difficulty: easy
+  category: philosophy
+- question: In che anno Albert Einstein ha proposto l'idea che ha portato alla creazione del laser?
+  choices:
+    - 1917
+    - 1925
+    - 1932
+    - 1940
+  answer: 0
+  difficulty: hard
+  category: laser engineering
+- question: Quale filosofo è famoso per la sua "Allegoria della caverna"?
+  choices:
+    - Platone
+    - Aristotele
+    - Kant
+    - Nietzsche
+  answer: 0
+  difficulty: medium
+  category: philosophy
+- question: Quale tipo di laser viene comunemente usato nei lettori di CD e DVD?
+  choices:
+    - Laser a gas
+    - Laser a stato solido
+    - Laser a semiconduttore
+    - Laser a liquido
+  answer: 2
+  difficulty: hard
+  category: laser engineering
+- question: Chi ha scritto "Così parlò Zarathustra"?
+  choices:
+    - Friedrich Nietzsche
+    - Immanuel Kant
+    - Soren Kierkegaard
+    - Jean-Paul Sartre
+  answer: 0
+  difficulty: medium
+  category: philosophy
+- question: Che cos'è la coerenza spaziale in un laser?
+  choices:
+    - La direzione del fascio laser
+    - La lunghezza d'onda del fascio laser
+    - La potenza del fascio laser
+    - L'uniformità del fascio laser attraverso la sua sezione trasversale
+  answer: 3
+  difficulty: hard
+  category: laser engineering
+- question: Quale filosofo ha sviluppato il concetto di "fenomenologia"?
+  choices:
+    - Edmund Husserl
+    - Martin Heidegger
+    - Jean-Paul Sartre
+    - Friedrich Nietzsche
+  answer: 0
+  difficulty: hard
+  category: philosophy
+- question: Per cosa sta l'acronimo "LASER"?
+  choices:
+    - Light Amplification by Stimulated Emission of Radiation
+    - Light Absorption by Stimulated Emission of Radiation
+    - Light Amplification by Stimulated Emission of Resonance
+    - Light Absorption by Stimulated Emission of Resonance
+  answer: 0
+  difficulty: medium
+  category: laser engineering
+- question: Qual è la capitale dell'Australia?
+  choices:
+    - Sydney
+    - Melbourne
+    - Canberra
+    - Perth
+  answer: 2
+  difficulty: medium
+  category: geography
+- question: Quale è il pianeta più grande del sistema solare?
+  choices:
+    - Saturno
+    - Venere
+    - Giove
+    - Marte
+  answer: 2
+  difficulty: easy
+  category: science
+- question: Chi ha scritto "Il vecchio e il mare"?
+  choices:
+    - Ernest Hemingway
+    - Mark Twain
+    - John Steinbeck
+    - F. Scott Fitzgerald
+  answer: 0
+  difficulty: easy
+  category: literature
+- question: In quale città si trova la Torre di Pisa?
+  choices:
+    - Milano
+    - Roma
+    - Firenze
+    - Pisa
+  answer: 3
+  difficulty: easy
+  category: general knowledge
+- question: Quale squadra di calcio ha vinto la Coppa del Mondo FIFA 2018?
+  choices:
+    - Germania
+    - Brasile
+    - Francia
+    - Argentina
+  answer: 2
+  difficulty: medium
+  category: sports
+- question: Chi è l'autore della serie di libri "Il Signore degli Anelli"?
+  choices:
+    - J.K. Rowling
+    - George R.R. Martin
+    - J.R.R. Tolkien
+    - C.S. Lewis
+  answer: 2
+  difficulty: easy
+  category: literature
+- question: Quale animale è il simbolo nazionale degli Stati Uniti d'America?
+  choices:
+    - Lupo
+    - Aquila calva
+    - Orso
+    - Leone
+  answer: 1
+  difficulty: easy
+  category: general knowledge
+- question: Qual è il titolo del primo album da solista di Richard Benson?
+  choices:
+    - "L'Inferno dei viventi"
+    - "Madre Tortura"
+    - "Anima Persa"
+    - "Sogni di Rock 'n' Roll"
+  answer: 1
+  difficulty: hard
+  category: music
+- question: In quale anno Richard Benson ha partecipato alla trasmissione "Italia's Got Talent"?
+  choices:
+    - 2015
+    - 2016
+    - 2017
+    - 2018
+  answer: 0
+  difficulty: hard
+  category: television
