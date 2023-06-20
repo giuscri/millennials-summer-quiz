@@ -709,3 +709,122 @@
   answer: 0
   difficulty: hard
   category: television
+- question: Quale tra questi animali, secondo le attuali conoscenze scientifiche, non prova dolore?
+  choices:
+    - Lumache di mare
+    - Scarafaggi
+    - Cozze
+    - Meduse
+  answer: 2
+  difficulty: hard
+  category: science
+- question: Qual è il nome del dolce francese fatto di pasta choux e ripieno di crema?
+  choices:
+    - Eclair
+    - Croissant
+    - Baguette
+    - Tarte Tatin
+  answer: 0
+  difficulty: medium
+  category: cooking
+- question: Qual è l'ingrediente principale di una salsa roux?
+  choices:
+    - Uova
+    - Burro e farina
+    - Panna
+    - Vino bianco
+  answer: 1
+  difficulty: hard
+  category: cooking
+- question: Da quale paese proviene il dessert chiamato Tarte Tatin?
+  choices:
+    - Italia
+    - Francia
+    - Belgio
+    - Canada
+  answer: 1
+  difficulty: medium
+  category: cooking
+- question: Quale di questi ingredienti non è contenuto nel tradizionale Hummus?
+  choices:
+    - Ceci
+    - Tahini
+    - Olio d'oliva
+    - Latte
+  answer: 3
+  difficulty: hard
+  category: cooking
+- question: Da quale regione italiana proviene la pasta chiamata 'Orecchiette'?
+  choices:
+    - Sicilia
+    - Liguria
+    - Toscana
+    - Puglia
+  answer: 3
+  difficulty: hard
+  category: cooking
+- question: Quale di queste spezie non è un ingrediente tradizionale del Garam Masala?
+  choices:
+    - Cumino
+    - Coriandolo
+    - Cannella
+    - Basilico
+  answer: 3
+  difficulty: hard
+  category: cooking
+- question: Quale paese è famoso per il piatto di insalata chiamato Tabouleh?
+  choices:
+    - Grecia
+    - Libano
+    - Egitto
+    - Turchia
+  answer: 1
+  difficulty: hard
+  category: cooking
+- question: Quale tra questi non è un tipo di riso?
+  choices:
+    - Arborio
+    - Basmati
+    - Manchego
+    - Jasmine
+  answer: 2
+  difficulty: hard
+  category: cooking
+- question: Quale di questi attori ha avuto recentemente un figlio?
+  choices:
+    - Al Pacino
+    - Jhonny Depp
+    - George Clooney
+    - Tom Hanks
+  answer: 0
+  difficulty: hard
+  category: gossip
+- question: Quanti sono i film della saga "Terminator"?
+  choices:
+    - 3
+    - 4
+    - 5
+    - 6
+  answer: 3
+  difficulty: hard
+  category: movie
+- question: Chi è il protagonista del film "Good Will Huntin"?
+  choices:
+    - Bruce Willis
+    - Matt Damon
+    - Mickey Rourke
+    - Leonardo Di Caprio
+  answer: 1
+  difficulty: medium
+  category: movie
+- question: Come si è concluso il processo Depp e Heard?
+  choices:
+    - L'attrice è stata condannata a pagare più di 10 milioni di dollari
+    - L'attore è stato condannato a pagare più di 10 milioni di dollari
+    - L'attrice è stato condannato a 3 mesi di carcere e a pagare 20 milioni di dollari
+    - Entrambi sono stati dichiarati colpevoli
+  answer: 0
+  difficulty: hard
+  category: gossip
+
+# add questions about movie quotes
