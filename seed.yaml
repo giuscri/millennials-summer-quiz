@@ -42,7 +42,7 @@
     - 4%
   answer: 3
   difficulty: medium
-  category: life
+  category: taxation
 - question: Qual è la terza cifra decimale di π?
   choices:
     - 2
@@ -52,3 +52,192 @@
   answer: 1
   difficulty: hard
   category: maths and science
+- question: Qual è la terza cifra decimale di e?
+  choices:
+    - 5
+    - 1
+    - 8
+    - 2
+  answer: 2
+  difficulty: hard
+  category: maths and science
+- question: A quale film appartiene questa citazione? "Sono un po' stanchino."
+  choices:
+  - Akira
+  - Pulp Fiction
+  - Forrest Gump
+  - Zootopia
+  answer: 2
+  difficulty: medium
+  category: movies
+- question: Nella tastiera QWERTY quale tasto c'è a sinistra della F?
+  choices:
+  - H
+  - J
+  - S
+  - D
+  answer: 3
+  category: technology
+  difficulty: hard
+- questions: Quale ingrediente NON va nel baccalà mantecato secondo la ricetta originale?
+  choices:
+  - cipolla
+  - alloro
+  - limone
+  - pepe
+  answer: 0
+  difficulty: hard
+  category: food
+- question: In quale opera si trova la famosa aria "Nessun Dorma"?
+  choices:
+    - La Traviata
+    - Il Barbiere di Siviglia
+    - Turandot
+    - Rigoletto
+  answer: 2
+  difficulty: hard
+  category: opera
+- question: Chi è considerato il padre della teoria dei numeri?
+  choices:
+    - Isaac Newton
+    - Carl Friedrich Gauss
+    - Leonhard Euler
+    - Blaise Pascal
+  answer: 1
+  difficulty: hard
+  category: mathematics
+- question: Qual è il simbolo chimico del Tallio?
+  choices:
+    - Ti
+    - Tl
+    - Ta
+    - Tb
+  answer: 1
+  difficulty: hard
+  category: chemistry
+- question: Qual è il titolo dell'opera più famosa di Marcel Proust?
+  choices:
+    - Guerra e Pace
+    - Alla ricerca del tempo perduto
+    - Il Grande Gatsby
+    - Moby Dick
+  answer: 1
+  difficulty: hard
+  category: literature
+- question: Quale pianeta del sistema solare ha il maggior numero di lune?
+  choices:
+    - Giove
+    - Saturno
+    - Urano
+    - Nettuno
+  answer: 0
+  difficulty: hard
+  category: astronomy
+- question: Qual è la capitale dell'Impero Azteco?
+  choices:
+    - Machu Picchu
+    - Tenochtitlán
+    - Cuzco
+    - Teotihuacán
+  answer: 1
+  difficulty: hard
+  category: history
+- question: Qual è il numero di Avogadro?
+  choices:
+    - 6.02 x 10^23
+    - 3.14 x 10^8
+    - 9.81 x 10^2
+    - 2.71 x 10^7
+  answer: 0
+  difficulty: hard
+  category: chemistry
+- question: Quale è il più alto monte dell'Appennino?
+  choices:
+    - Monte Bianco
+    - Monte Corno
+    - Gran Sasso
+    - Monte Rosa
+  answer: 2
+  difficulty: hard
+  category: geography
+- question: In quale lingua fu scritto originariamente il "Don Chisciotte"?
+  choices:
+    - Italiano
+    - Spagnolo
+    - Inglese
+    - Francese
+  answer: 1
+  difficulty: hard
+  category: literature
+- question: Quale è la costante di Planck?
+  choices:
+    - 6.626 x 10^-34 J s
+    - 3.14 x 10^-7 J s
+    - 9.81 x 10^-3 J s
+    - 1.38 x 10^-23 J s
+  answer: 0
+  difficulty: hard
+  category: physics
+- question: Quale imperatore romano legalizzò il Cristianesimo?
+  choices:
+    - Giulio Cesare
+    - Nerone
+    - Augusto
+    - Costantino
+  answer: 3
+  difficulty: hard
+  category: history
+- question: Qual è il libro più tradotto al mondo dopo la Bibbia?
+  choices:
+    - Don Chisciotte
+    - Il Piccolo Principe
+    - Il Signore degli Anelli
+    - Harry Potter e la Pietra Filosofale
+  answer: 1
+  difficulty: hard
+  category: literature
+- question: Chi ha scoperto la penicillina?
+  choices:
+    - Marie Curie
+    - Alexander Fleming
+    - Louis Pasteur
+    - Gregor Mendel
+  answer: 1
+  difficulty: hard
+  category: biology
+- question: Quale materia è conosciuta come la "materia oscura" dell'Universo?
+  choices:
+    - Elio
+    - Neutroni
+    - Antimateria
+    - Materia Oscura
+  answer: 3
+  difficulty: hard
+  category: astronomy
+- question: Quale teorema stabilisce che non è possibile costruire un algoritmo che determini se un dato programma finirà di eseguire o continuerà a girare indefinitamente?
+  choices:
+    - Teorema di Gödel
+    - Teorema di Fermat
+    - Problema di Halting
+    - Teorema di Poincaré
+  answer: 2
+  difficulty: hard
+  category: computer science
+- question: In quale anno è stato firmato il Trattato di Versailles?
+  choices:
+    - 1914
+    - 1918
+    - 1919
+    - 1920
+  answer: 2
+  difficulty: hard
+  category: history
+- question: Quale elemento ha la più alta temperatura di ebollizione?
+  choices:
+    - Carbonio
+    - Tungsteno
+    - Ferro
+    - Osmio
+  answer: 1
+  difficulty: hard
+  category: chemistry

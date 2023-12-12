@@ -34,15 +34,6 @@
   answer: 1
   difficulty: easy
   category: cinema
-- question: A quanto ammonta l'IVA sulla prima casa?
-  choices:
-    - 3%
-    - 1%
-    - 0%
-    - 4%
-  answer: 3
-  difficulty: medium
-  category: life
 - question: Qual è la terza cifra decimale di π?
   choices:
     - 2
@@ -214,7 +205,7 @@
   answer: 1
   difficulty: hard
   category: videogames
-- question: Qual è il nome della principessa che Link salva nei giochi di 'The Legend of Zelda'?
+- question: Qual è il nome della principessa nei giochi di 'The Legend of Zelda'?
   choices:
     - Peach
     - Zelda
@@ -286,24 +277,6 @@
   answer: 0
   difficulty: medium
   category: cartoons
-- question: Chi è l'autore del romanzo distopico '1984'?
-  choices:
-    - George Orwell
-    - Aldous Huxley
-    - Ray Bradbury
-    - H.G. Wells
-  answer: 0
-  difficulty: medium
-  category: literature
-- question: In quale serie TV si può trovare il personaggio di Walter White?
-  choices:
-    - The Sopranos
-    - Breaking Bad
-    - The Wire
-    - Game of Thrones
-  answer: 1
-  difficulty: medium
-  category: television
 - question: Qual è la formula chimica dell'acqua ossigenata?
   choices:
     - H2O2
@@ -430,15 +403,6 @@
   answer: 0
   difficulty: hard
   category: cartoons
-- question: Come si chiama la fidanzata di Paperino?
-  choices:
-    - Paperina
-    - Minni
-    - Clarabella
-    - Daisy
-  answer: 3
-  difficulty: easy
-  category: cartoons
 - question: Quale genere musicale è principalmente associato a Bob Marley?
   choices:
     - Reggae
@@ -520,15 +484,6 @@
   answer: 0
   difficulty: hard
   category: sports
-- question: Chi ha scritto la 'Divina Commedia'?
-  choices:
-    - Dante Alighieri
-    - Francesco Petrarca
-    - Giovanni Boccaccio
-    - William Shakespeare
-  answer: 0
-  difficulty: easy
-  category: literature
 - question: Quale strumento ha inventato Galileo Galilei?
   choices:
     - Il telescopio
@@ -655,15 +610,6 @@
   answer: 0
   difficulty: easy
   category: literature
-- question: In quale città si trova la Torre di Pisa?
-  choices:
-    - Milano
-    - Roma
-    - Firenze
-    - Pisa
-  answer: 3
-  difficulty: easy
-  category: general knowledge
 - question: Quale squadra di calcio ha vinto la Coppa del Mondo FIFA 2018?
   choices:
     - Germania
@@ -826,5 +772,390 @@
   answer: 0
   difficulty: hard
   category: gossip
-
-# add questions about movie quotes
+- question: Qual è il nome del villaggio in cui vive Asterix?
+  choices:
+    - Lutetia
+    - Gergovia
+    - Alesia
+    - Gaul
+  answer: 3
+  difficulty: medium
+  category: cartoons
+- question: Qual è la scala cromatica in musica?
+  choices:
+    - Una scala di sette note
+    - Una scala di dodici semitoni
+    - Una scala di otto semitoni 
+    - Una scala di dieci note
+  answer: 1
+  difficulty: hard
+  category: musicology
+- question: Qual è la costante di Planck in fisica?
+  choices:
+    - 6.626 x 10^-34 m^2 kg / s
+    - 3.142
+    - 9.81 m/s^2
+    - 1.602 x 10^-19 C
+  answer: 0
+  difficulty: hard
+  category: science
+- question: Qual è il teorema fondamentale del calcolo?
+  choices:
+    - Teorema di Pitagora
+    - Teorema dell'unicità del limite
+    - Teorema di Fermat
+    - Teorema di integrazione e derivazione
+  answer: 3
+  difficulty: hard
+  category: maths and science
+- question: "In 'Fight Club', quale frase iconica descrive la prima regola del club?"
+  choices:
+    - "Non parlare mai del Fight Club."
+    - "Combatti come se fosse l'ultimo giorno."
+    - "Solo due persone per combattimento."
+    - "Se è il tuo primo giorno, devi combattere."
+  answer: 0
+  difficulty: hard
+  category: movie
+- question: Qual è la velocità della luce nel vuoto?
+  choices:
+    - 299.792.458 metri al secondo
+    - 150.000.000 metri al secondo
+    - 300.000.000 metri al secondo
+    - 250.000.000 metri al secondo
+  answer: 0
+  difficulty: hard
+  category: science
+- question: "In 'Il Padrino: Parte II', quale frase dice Michael Corleone?"
+  choices:
+    - "Tieni vicini i tuoi amici, ma i tuoi nemici ancora di più."
+    - "Non chiedere mai a un uomo di fare qualcosa che non farebbe."
+    - "Non odio i miei nemici, li elimino."
+    - "La famiglia è tutto."
+  answer: 0
+  difficulty: hard
+  category: movie
+- question: Qual è il principio di indeterminazione di Heisenberg?
+  choices:
+    - Non è possibile misurare simultaneamente la posizione e la velocità di una particella
+    - La materia è costituita da atomi
+    - L'energia di un sistema isolato rimane costante
+    - La velocità della luce è la stessa in tutti i sistemi di riferimento inerziali
+  answer: 0
+  difficulty: hard
+  category: science
+- question: Qual è il composto chimico principale dell'acido cloridrico?
+  choices:
+    - HCl
+    - H2SO4
+    - NaCl
+    - CH4
+  answer: 0
+  difficulty: medium
+  category: science
+- question: Quale pianeta del sistema solare ha gli anelli più evidenti?
+  choices:
+    - Giove
+    - Saturno
+    - Urano
+    - Nettuno
+  answer: 1
+  difficulty: medium
+  category: science
+- question: Qual è la formula chimica del glucosio?
+  choices:
+    - C6H12O6
+    - CO2
+    - C12H22O11
+    - CH4
+  answer: 0
+  difficulty: hard
+  category: chemistry
+- question: Qual è il raggio medio della Terra?
+  choices:
+    - 6.371 km
+    - 12.742 km
+    - 40.075 km
+    - 1.496 x 10^8 km
+  answer: 0
+  difficulty: hard
+  category: science
+- question: Qual è la formula di Eulero in matematica?
+  choices:
+    - e^(iπ) + 1 = 0
+    - a^2 + b^2 = c^2
+    - F = ma
+    - E = mc^2
+  answer: 0
+  difficulty: hard
+  category: maths and science
+- question: In quale anno è stato scoperto il neutrone?
+  choices:
+    - 1911
+    - 1925
+    - 1932
+    - 1947
+  answer: 2
+  difficulty: hard
+  category: science
+- question: "In 'Il Signore degli Anelli: La Compagnia dell'Anello', quale frase viene pronunciata da Gandalf?"
+  choices:
+    - "Un mago non è mai in ritardo."
+    - "Non puoi passare!"
+    - "La notte è buia e piena di terrori."
+    - "L'anello deve essere distrutto."
+  answer: 1
+  difficulty: medium
+  category: movie
+- question: Qual è la capitale della Nuova Zelanda?
+  choices:
+    - Auckland
+    - Christchurch
+    - Wellington
+    - Queenstown
+  answer: 2
+  difficulty: medium
+  category: geography
+- question: Qual è il numero atomico del carbonio?
+  choices:
+    - 6
+    - 8
+    - 12
+    - 14
+  answer: 0
+  difficulty: medium
+  category: science
+- question: "Chi canta il pezzo \"Genie in a bottle\" (1999)?"
+  choices:
+    - "TLC"
+    - "Christina Aguilera"
+    - "Bob Sinclair"
+    - "Britney Spears"
+  answer: 1
+  difficulty: easy
+  category: music
+- question: "Chi ha scritto la canzone 'Like a Prayer'?"
+  choices:
+    - "Whitney Houston"
+    - "Madonna"
+    - "Celine Dion"
+    - "Mariah Carey"
+  answer: 1
+  difficulty: easy
+  category: music
+- question: "Qual è il simbolo chimico dell'oro?"
+  choices:
+    - "Ag"
+    - "Au"
+    - "Fe"
+    - "O"
+  answer: 1
+  difficulty: easy
+  category: science
+- question: "Quale artista pop è noto per la canzone 'Bad Romance'?"
+  choices:
+    - "Katy Perry"
+    - "Lady Gaga"
+    - "Adele"
+    - "Rihanna"
+  answer: 1
+  difficulty: easy
+  category: music
+- question: "Chi è l'autore del romanzo 'Il grande Gatsby'?"
+  choices:
+    - "F. Scott Fitzgerald"
+    - "Ernest Hemingway"
+    - "William Faulkner"
+    - "John Steinbeck"
+  answer: 0
+  difficulty: medium
+  category: literature
+- question: "Quale elemento chimico ha il simbolo 'H'?"
+  choices:
+    - "Elio"
+    - "Idrogeno"
+    - "Ossigeno"
+    - "Azoto"
+  answer: 1
+  difficulty: easy
+  category: science
+- question: Quale filosofo ha scritto "Critica della ragion pura"?
+  choices:
+    - Friedrich Nietzsche
+    - Immanuel Kant
+    - Georg Wilhelm Friedrich Hegel
+    - Jean-Paul Sartre
+  answer: 1
+  difficulty: medium
+  category: philosophy
+- question: Chi ha dipinto "La ragazza con l'orecchino di perla"?
+  choices:
+    - Rembrandt
+    - Johannes Vermeer
+    - Vincent van Gogh
+    - Pablo Picasso
+  answer: 1
+  difficulty: medium
+  category: art
+- question: Quale lingua ha il maggior numero di madrelingua nel mondo?
+  choices:
+    - Inglese
+    - Spagnolo
+    - Cinese
+    - Hindi
+  answer: 2
+  difficulty: medium
+  category: linguistics
+- question: Quale elemento ha il simbolo chimico "Au"?
+  choices:
+    - Argento
+    - Oro
+    - Alluminio
+    - Azoto
+  answer: 1
+  difficulty: medium
+  category: chemistry
+- question: In quale secolo ha avuto luogo la Rivoluzione Francese?
+  choices:
+    - XVI secolo
+    - XVII secolo
+    - XVIII secolo
+    - XIX secolo
+  answer: 2
+  difficulty: medium
+  category: history
+- question: Quale animale è noto per avere la più lunga migrazione annuale?
+  choices:
+    - Balena blu
+    - Elefante africano
+    - Tartaruga marina
+    - Sterna artica
+  answer: 3
+  difficulty: hard
+  category: biology
+- question: Qual è il nome del satellite naturale di Marte più grande?
+  choices:
+    - Europa
+    - Io
+    - Deimos
+    - Phobos
+  answer: 3
+  difficulty: medium
+  category: astronomy
+- question: Qual è il film vincitore dell'Oscar per il miglior film nel 1994?
+  choices:
+    - Pulp Fiction
+    - Forrest Gump
+    - Schindler's List
+    - The Shawshank Redemption
+  answer: 1
+  difficulty: medium
+  category: cinema
+- question: In quale paese si trova il deserto del Gobi?
+  choices:
+    - Cina
+    - India
+    - Mongolia
+    - Kazakhstan
+  answer: 2
+  difficulty: hard
+  category: geography
+- question: Qual è la moneta ufficiale del Giappone?
+  choices:
+    - Yen
+    - Won
+    - Yuan
+    - Rupee
+  answer: 0
+  difficulty: medium
+  category: economics
+- question: Chi ha inventato la lampadina elettrica?
+  choices:
+    - Nikola Tesla
+    - Thomas Edison
+    - Alexander Graham Bell
+    - James Watt
+  answer: 1
+  difficulty: medium
+  category: history
+- question: Quale città è stata la prima capitale degli Stati Uniti?
+  choices:
+    - New York
+    - Washington D.C.
+    - Philadelphia
+    - Boston
+  answer: 2
+  difficulty: hard
+  category: history
+- question: Quale fiume è il più lungo del mondo?
+  choices:
+    - Nilo
+    - Amazonas
+    - Yangtze
+    - Mississippi
+  answer: 1
+  difficulty: hard
+  category: geography
+- question: In quale opera di Shakespeare si trova la frase "Essere o non essere"?
+  choices:
+    - Amleto
+    - Macbeth
+    - Romeo e Giulietta
+    - Re Lear
+  answer: 0
+  difficulty: medium
+  category: literature
+- question: Quale struttura dell'occhio umano è responsabile per la percezione del colore?
+  choices:
+    - Cornea
+    - Retina
+    - Cristallino
+    - Coni
+  answer: 3
+  difficulty: hard
+  category: biology
+- question: In quale paese è nato il filosofo Socrate?
+  choices:
+    - Italia
+    - Grecia
+    - Egitto
+    - Persia
+  answer: 1
+  difficulty: medium
+  category: history
+- questions: Secondo un paper di Common Sense Institute nel 2023 Tailor Swift ha contribuito al PIL del Colorado per il ...
+  choices:
+  - ~0.5%
+  - ~1%
+  - ~1.5%
+  - ~2%
+  answer: 2
+  difficulty: hard
+  category: news
+- questions: Quale ingrediente NON va nel baccalà mantecato secondo la ricetta originale?
+  choices:
+  - cipolla
+  - alloro
+  - limone
+  - pepe
+  answer: 0
+  difficulty: hard
+  category: food
+- questions: Quanti anni la tartaruga più anziana del mondo?
+  choices:
+  - ~200 anni
+  - ~500 anni
+  - ~90 anni
+  - ~120 anni
+  answer: 0
+  difficulty: hard
+  category: biology
+- questions: Quale di questi animali è tecnicamente considerato immortale?
+  choices:
+  - stella marina Valvatida
+  - meduse Turritopsis nutricula
+  - polpo Tremoctopus gelatus
+  - calamaro Loligo forbesi
+  answer: 1
+  difficulty: hard
+  category: biology
