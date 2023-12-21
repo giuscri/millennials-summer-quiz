@@ -1123,7 +1123,7 @@
   answer: 1
   difficulty: medium
   category: history
-- questions: Secondo un paper di Common Sense Institute nel 2023 Tailor Swift ha contribuito al PIL del Colorado per il ...
+- question: Secondo un paper di Common Sense Institute nel 2023 Tailor Swift ha contribuito al PIL del Colorado per il ...
   choices:
   - ~0.5%
   - ~1%
@@ -1132,7 +1132,7 @@
   answer: 2
   difficulty: hard
   category: news
-- questions: Quale ingrediente NON va nel baccalà mantecato secondo la ricetta originale?
+- question: Quale ingrediente NON va nel baccalà mantecato secondo la ricetta originale?
   choices:
   - cipolla
   - alloro
@@ -1141,7 +1141,7 @@
   answer: 0
   difficulty: hard
   category: food
-- questions: Quanti anni la tartaruga più anziana del mondo?
+- question: Quanti anni la tartaruga più anziana del mondo?
   choices:
   - ~200 anni
   - ~500 anni
@@ -1150,7 +1150,7 @@
   answer: 0
   difficulty: hard
   category: biology
-- questions: Quale di questi animali è tecnicamente considerato immortale?
+- question: Quale di questi animali è tecnicamente considerato immortale?
   choices:
   - stella marina Valvatida
   - meduse Turritopsis nutricula
